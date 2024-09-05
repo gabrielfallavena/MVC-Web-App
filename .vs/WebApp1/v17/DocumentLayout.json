@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\migrations\\20240905202759_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\migrations\\20240905202759_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\data\\webapp1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\data\\webapp1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,91 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240905202759_OtherEntities.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Migrations\\20240905202759_OtherEntities.cs",
-              "RelativeDocumentMoniker": "WebApp1\\Migrations\\20240905202759_OtherEntities.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Migrations\\20240905202759_OtherEntities.cs",
-              "RelativeToolTip": "WebApp1\\Migrations\\20240905202759_OtherEntities.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T20:27:59.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalesRecord.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Models\\SalesRecord.cs",
-              "RelativeDocumentMoniker": "WebApp1\\Models\\SalesRecord.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Models\\SalesRecord.cs",
-              "RelativeToolTip": "WebApp1\\Models\\SalesRecord.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIAzwA4AAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T20:06:58.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Seller.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Models\\Seller.cs",
-              "RelativeDocumentMoniker": "WebApp1\\Models\\Seller.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Models\\Seller.cs",
-              "RelativeToolTip": "WebApp1\\Models\\Seller.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAjwCIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T20:04:33.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Program.cs",
               "RelativeDocumentMoniker": "WebApp1\\Program.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Program.cs",
               "RelativeToolTip": "WebApp1\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:19:39.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebApp1Context.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Data\\WebApp1Context.cs",
-              "RelativeDocumentMoniker": "WebApp1\\Data\\WebApp1Context.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Data\\WebApp1Context.cs",
-              "RelativeToolTip": "WebApp1\\Data\\WebApp1Context.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:02:06.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "WebApp1\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "WebApp1\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T17:45:39.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "WebApp1\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Models\\Department.cs",
-              "RelativeToolTip": "WebApp1\\Models\\Department.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBsAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T17:41:42.106Z",
+              "WhenOpened": "2024-09-05T22:12:20.263Z",
               "EditorCaption": ""
             }
           ]
