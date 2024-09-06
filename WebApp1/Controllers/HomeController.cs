@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using WebApp1.Models;
+using WebApp1.Models.ViewModels;
 
 namespace WebApp1.Controllers
 {
@@ -19,6 +19,11 @@ namespace WebApp1.Controllers
         }
 
         public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        public IActionResult About()
         {
             return View();
         }

@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
 using WebApp1.Data;
 using WebApp1.Models;
+using WebApp1.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +11,8 @@ builder.Services.AddDbContext<WebApp1Context>(options =>
     new MySqlServerVersion(new Version(8, 0, 39))));
 
 builder.Services.AddScoped<SeedingService>();
+builder.Services.AddScoped<SellerService>();
+builder.Services.AddScoped<DepartmentService>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
