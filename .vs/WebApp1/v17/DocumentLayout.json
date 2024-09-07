@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\sellers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|c:\\users\\gabriel\\desktop\\.net\\webapp1\\webapp1\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DF8CBF-3E91-4414-B40B-0D891C0B5F0E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Views\\Sellers\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebApp1\\Views\\Sellers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Views\\Sellers\\Details.cshtml",
-              "RelativeToolTip": "WebApp1\\Views\\Sellers\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:26:37.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Views\\Sellers\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebApp1\\Views\\Sellers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Views\\Sellers\\Delete.cshtml",
-              "RelativeToolTip": "WebApp1\\Views\\Sellers\\Delete.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABXAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Views\\Sellers\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Sellers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Views\\Sellers\\Create.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Sellers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:01:39.311Z",
+              "WhenOpened": "2024-09-07T16:59:55.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Views\\Sellers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Sellers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Views\\Sellers\\Edit.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Sellers\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:59:01.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Views\\Sellers\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApp1\\Views\\Sellers\\Index.cshtml",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Views\\Sellers\\Index.cshtml",
               "RelativeToolTip": "WebApp1\\Views\\Sellers\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-07T16:00:33.141Z"
+              "WhenOpened": "2024-09-07T16:54:46.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SellersController.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Controllers\\SellersController.cs",
               "RelativeDocumentMoniker": "WebApp1\\Controllers\\SellersController.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Controllers\\SellersController.cs",
               "RelativeToolTip": "WebApp1\\Controllers\\SellersController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAjwEEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA7wGEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T15:55:38.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "SellerService.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Services\\SellerService.cs",
               "RelativeDocumentMoniker": "WebApp1\\Services\\SellerService.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\.NET\\WebApp1\\WebApp1\\Services\\SellerService.cs",
               "RelativeToolTip": "WebApp1\\Services\\SellerService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA1wCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvyoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T15:52:05.611Z",
               "EditorCaption": ""
