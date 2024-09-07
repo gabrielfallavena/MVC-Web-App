@@ -1,4 +1,5 @@
-﻿using WebApp1.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using WebApp1.Models;
 
 namespace WebApp1.Services
 {
@@ -24,7 +25,8 @@ namespace WebApp1.Services
 
         public Seller FindById(int id)
         {
-            return _context.Seller.FirstOrDefault(obj => obj.Id == id);
+            return _context.Seller.Include(obj => obj.Department).FirstOrDefault(obj => obj.Id == id);
+            //Include permite obter outros objetos associados ao objeto principal
         }
 
         public void Remove(int id)
@@ -33,8 +35,5 @@ namespace WebApp1.Services
             _context.Seller.Remove(obj);
             _context.SaveChanges();
         }
-
-
-
     }
 }
