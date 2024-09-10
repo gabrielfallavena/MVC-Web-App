@@ -15,6 +15,7 @@ builder.Services.AddDbContext<WebApp1Context>(options =>
 builder.Services.AddScoped<SeedingService>();
 builder.Services.AddScoped<SellerService>();
 builder.Services.AddScoped<DepartmentService>();
+builder.Services.AddScoped<SalesRecordService>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -30,7 +31,6 @@ var localizationOptions = new RequestLocalizationOptions
 };
 
 app.UseRequestLocalization(localizationOptions);
-
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
